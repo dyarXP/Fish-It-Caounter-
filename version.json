@@ -1,4 +1,5 @@
 {
-  "latest_version": "v1.1.0",
-  "release_notes": "• Tambah filter baru di backpack\n• Perbaikan minor"
+  "version": "1.0.0",
+  "build": 1,
+  "date": "2025‑11‑06"
 }
